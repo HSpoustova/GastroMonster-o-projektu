@@ -1,0 +1,30 @@
+/*.head__headline {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-name: headMove 3s;
+
+}*/
+
+.head__title {
+
+  font-size: 36px;
+  background-color: #f3ec78;
+  background-image: linear-gradient(45deg, #788df3, rgb(33, 143, 104));
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+
+}
+
+/*@keyframes headMove {
+  from {
+    top: 0px;
+  }
+
+  to {
+    top: 500px;
+  }
+}*/

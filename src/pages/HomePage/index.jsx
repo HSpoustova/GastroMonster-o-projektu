@@ -1,14 +1,13 @@
 import './style.css';
+import { Footer } from '../../components/Footer';
+import { Header } from '../../components/Header';
 
 export const HomePage = () => {
   return (
     <div className="container">
-      <header>
-        <h1>Projekt Gastro Monster</h1>
-      </header>
-
+      <Header/>
       <main></main>
-      <footer></footer>
+      <Footer />
     </div>
   );
 };
