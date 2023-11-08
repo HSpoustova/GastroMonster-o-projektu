@@ -1,0 +1,29 @@
+.main__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.main__img {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.main__content---adult,
+.main__content---baby,
+.main__content---kid {
+  max-width: 180px;
+  max-height: auto;
+}
+
+.main__content---adult img,
+.main__content---baby img,
+.main__content---kid img {
+
+  width: 100%;
+}
