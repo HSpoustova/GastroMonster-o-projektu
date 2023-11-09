@@ -1,9 +1,13 @@
 .app__container {
-
   display: flex;
-  justify-content: flex-end;
-
-
-
-
+  justify-content: center;
 }
+
+.page__container {
+  display: flex;
+  justify-content: space-between;
+}
+.page__hanka,.page__betty {
+  height: 400px;
+}
+

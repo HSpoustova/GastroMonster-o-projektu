@@ -4,7 +4,9 @@
   animation-name: headMove 3s;
 
 }*/
-
+header {
+  margin-top: 0;
+}
 .head__title {
 
   font-size: 36px;
