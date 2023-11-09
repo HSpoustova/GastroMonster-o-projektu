@@ -1,15 +1,18 @@
 import './style.css';
-import { Footer } from '../../components/Footer';
-import { Header } from '../../components/Header';
-import { App } from '../../App.jsx';
 import { Main } from '../../components/Main';
 
 export const HomePage = () => {
   return (
     <div className="container">
-      <Header />
+      <header>
+        <div className="head__headline">
+          <h1 className="head__title">Projekt Gastro Monster</h1>
+        </div>
+      </header>
       <Main />
-      <Footer />
+      <footer>
+        <p>Alžběta Kačírková & Hana Spoustová ©2023</p>
+      </footer>
     </div>
   );
 };
