@@ -14,7 +14,7 @@ export const HanaSpoust = () => {
             Jsem mladá, perspektivní komunikativní osoba se smyslem pro humor,
             programování a pro detail. Kouknout na to se můžete na
             <strong>
-              <a href="https://github.com/HSpoustova">můj GitHub.</a>
+              <a href="https://github.com/HSpoustova"> můj GitHub.</a>
             </strong>
           </p>
         </div>

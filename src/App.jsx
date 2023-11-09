@@ -12,7 +12,7 @@ export const App = () => {
       <div className="page__container">
       <img className='page__betty'src={betty} alt="Betty" />
       <Outlet />
-      <img className= 'page__hanka'src={hanka} alt="Hanka" />
+      <img className= 'page__hanka'src={hanka} alt="Hanka" /> 
       </div>
     </>
   );
