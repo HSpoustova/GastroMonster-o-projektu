@@ -19,14 +19,14 @@ export const Main = () => {
             Konkrétně se týkají masa a masných výrobků, mléka a mléčných
             výrobku, pekařských výrobků a oblast ovoce a zeleniny. Hráč má pro
             průchod políčkovou oblastí přidělený omezený počet potravin, které
-            používají pro její průchod. Zároveň v případě správných odpovědu
-            krmí monstrum, které roste od mláděte až po dospělého.
+            používá pro její průchod. Zároveň v případě správných odpovědí krmí
+            monstrum, které roste od mláděte až po dospělého.
           </p>
 
           <p>
             Hra má různé prvky, jako je náhodné generování otázek, obměny nových
-            otázek po špatných odpovědích, pohyb malého avatara na herním poli,
-            komunikaci monstra během hry či poskytování nápověd.
+            otázek po špatných odpovědích, pohyb malého avatara na herním poli a
+            komunikaci monstra během hry.
           </p>
         </div>
       </div>
